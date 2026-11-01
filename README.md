@@ -8,8 +8,8 @@
 I'm a **Backend Architect at heart** with a relentless drive for building robust, high-availability systems. My journey is fueled by a passion for clean code, deep-diving into JVM internals, and orchestrating complex Microservices. Currently, I'm evolving into a **Fullstack Engineer**, bridging the gap between powerful server-side logic and intuitive user experiences.
 
 - **Current Mission:** Architecting scalable backends and optimizing CI/CD pipelines for seamless delivery.
-- **Tech Evolution:** Deepening my expertise in **System Design**, **Cloud-Native patterns**, and the **React/Next.js** ecosystem.
-- **Philosophy:** "Code is like humor. When you have to explain it, it’s bad." - Focusing on readability and maintainability.
+- **Tech Evolution:** Deepening my expertise in **System Design**, **Cloud-Native patterns** to build highly scalable distributed systems.
+- **Philosophy:** "Code is like humor. When you have to explain it, it’s bad." Focusing on readability and maintainability.
 - **Beyond the IDE:** I'm always eager to exchange insights on architecting secure systems, squeezing every drop of performance out of SQL queries, or exploring the next frontier of DevOps.
 - **Ping Me:** [nguyenhungdev.vn@gmail.com](mailto:nguyenhungdev.vn@gmail.com)
 
